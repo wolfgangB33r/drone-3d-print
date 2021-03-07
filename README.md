@@ -5,3 +5,4 @@ The complete quadcopter 3D print design was done in the free tool [tinkercad](ht
 
 ![Complete quadcopter 3D print model](./drone_complete_model.png)
 
+The main quadcopter drone 3D print design consists of 4 individual parts that can easily be replaced in case of flight damage. All parts were designed to be printable and optimized for our Prusa Mini 3D printer (Kudos to [Josef Průša](https://www.prusaprinters.org/), the mastermind behind modern DIY printer designs)
