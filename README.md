@@ -21,4 +21,14 @@ The typical list of parts to equip this drone design is:
 - 1 3Cell 11.1 V Wellington Accu
 - 1 Lipo Battery Monitor 
 
+See a photo of my outrunner motors below:
 
+![Outrunner motor](./motor.png)
+
+See a photo of a typical RC channel receiver below:
+
+![RF receiver](./rc_receiver.png)
+
+See a photo of my battery monitor:
+
+![LIPO battery monitor](./battery_monitor.png)
