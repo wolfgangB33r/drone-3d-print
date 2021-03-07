@@ -14,13 +14,13 @@ Those 4 main parts are:
 - [akku case](./drone_acku_holder.stl) 
 
 The typical list of parts to equip this drone design is:
-- 4 outrunner motors (A2212/10T)
-- 4 ESC motor speed controllers
-- 4 rotors (2 clock wise CW + 2 counter clock wise CCW)
-- 1 flight controller (in my case a Mini APM V3.1 ArduPilot)
-- 1 RC 4 channel receiver
-- 1 3Cell 11.1 V Wellington Accu
-- 1 Lipo Battery Monitor 
+- 4x outrunner motors (A2212/10T)
+- 4x ESC motor speed controllers
+- 4x rotors (2 clock wise CW + 2 counter clock wise CCW)
+- flight controller (in my case a Mini APM V3.1 ArduPilot)
+- RC 4 channel receiver
+- 3Cell 11.1 V Wellington Accu
+- Lipo Battery Monitor 
 
 See a photo of my outrunner motors below:
 
