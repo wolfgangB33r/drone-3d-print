@@ -11,7 +11,7 @@ Those 4 main parts are:
 - 4 arms with standard motor holder
 - body case bottom
 - body case top
-- akku case 
+- [akku case](./drone_acku_holder.stl) 
 
 The typical list of parts to equip this drone design is:
 - 4 outrunner motors (A2212/10T)
